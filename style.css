@@ -1,3 +1,13 @@
+body{
+    background:#CCCCCC
+}
+
 p{
-    text-align:center
+    text-align:center;
+    
  }
+
+em strong{
+    color: #770d0d;
+
+}
