@@ -2,15 +2,13 @@
     width: 100%;
 
 }
-.titulo-principal{
-    padding-left: 20px;
-}
+
 .principal{
     background:#CCCCCC;
     padding:40px;
 }
 
-.titulo-centralizado{
+h1{
     text-align:center;
 }
 p{
@@ -35,7 +33,9 @@ em strong{
     padding:30px;
 }
 
-
+h2{
+    text-align: center;
+}
 ul{
     display: inline-block;
     vertical-align: top;
