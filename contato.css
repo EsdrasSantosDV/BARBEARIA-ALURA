@@ -48,7 +48,7 @@ form{
 
 }
 
-form label,form p{
+form label,legend{
     display:block;
     font-size:20px;
     margin: 0 0 10px;
@@ -64,11 +64,31 @@ form label,form p{
 .checkbox{
     margin: 20px 0;
 }
+
+.enviar{
+    width: 40%;
+    padding: 15px 0;
+    background: orange;
+    color:white;
+    font-weight: bold;
+    font-size: 18px;
+    border:none;
+    border-radius: 5px;
+    transition:1s background;
+    cursor:pointer;
+}
+
+.enviar:hover{
+    background: red;
+    transform: scale(1.1);
+}
+
 footer{
     text-align: center;
     background: url("bg.jpg");
     padding: 40px 0;
 }
+
 
 .copyright{
     color:white;
