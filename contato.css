@@ -83,6 +83,25 @@ form label,legend{
     transform: scale(1.1);
 }
 
+table{
+    margin:20px 0 20px;
+    border-radius: 3px;
+
+}
+thead{
+    background:#555555;
+    color:white;
+    font-weight: bold;
+}
+
+
+th,td{
+    border: 1px solid #000000;
+    padding: 8px 15px;
+}
+
+
+
 footer{
     text-align: center;
     background: url("bg.jpg");
